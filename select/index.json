@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "茜色の約束",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2025-12-26T07:14:13.805538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_茜色の約束_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_茜色の約束_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/03_茜色の約束_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_茜色の約束_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/05_茜色の約束_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "茜色の約束-acoustic version-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_茜色の約束-acoustic_version-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "茜色の約束-instrumental-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_茜色の約束-instrumental-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "茜色の約束 -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/08_茜色の約束_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "茜色の約束-acoustic version-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/09_茜色の約束-acoustic_version-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/10_茜色の約束_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/11_茜色の約束_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_茜色の約束_いきものがかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_09_茜色の約束_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "茜色の約束",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_10_茜色の約束_いきものがかり.txt"
+    }
+  ]
+}
